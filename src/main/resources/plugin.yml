@@ -1,0 +1,6 @@
+name: PolygonAnticheat
+version: '${version}'
+main: net.polygon.anticheat.Anticheat
+api-version: 1.18
+authors: [ Palker, n0703 ]
+description: Minecraft Anticheat
