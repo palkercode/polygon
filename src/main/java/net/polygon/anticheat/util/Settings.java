@@ -19,18 +19,24 @@ public class Settings {
 
     static {
         FOODS = new ArrayList<Material>();
-        FOODS.add(Material.LEGACY_RAW_CHICKEN);
-        FOODS.add(Material.LEGACY_RAW_BEEF);
-        FOODS.add(Material.LEGACY_RAW_FISH);
+        FOODS.add(Material.CHICKEN);
+        FOODS.add(Material.BEEF);
+        FOODS.add(Material.COD);
+        FOODS.add(Material.SALMON);
+        FOODS.add(Material.PUFFERFISH);
+        FOODS.add(Material.TROPICAL_FISH);
+        FOODS.add(Material.MUTTON);
 
         FOODS.add(Material.COOKED_BEEF);
         FOODS.add(Material.COOKED_CHICKEN);
-        FOODS.add(Material.LEGACY_COOKED_FISH);
+        FOODS.add(Material.COOKED_COD);
+        FOODS.add(Material.COOKED_SALMON);
         FOODS.add(Material.COOKED_PORKCHOP);
         FOODS.add(Material.COOKED_RABBIT);
         FOODS.add(Material.COOKED_MUTTON);
 
         FOODS.add(Material.GOLDEN_APPLE);
+        FOODS.add(Material.ENCHANTED_GOLDEN_APPLE);
         FOODS.add(Material.GOLDEN_CARROT);
     }
 }
