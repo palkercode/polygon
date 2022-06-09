@@ -12,6 +12,10 @@ public class Settings {
     public static final String NOTIFY = "polygonac.notify";
 
     public static final List<Material> FOODS;
+    public static final Integer MAX_WARNINGS = 15;
+    public static final Double MAX_XZ_BLOCK_SPEED = 0.614D;
+    public static final Long FOOD_MIN = 1000L;
+    public static final Long BOW_MIN = 100L;
 
     static {
         FOODS = new ArrayList<Material>();

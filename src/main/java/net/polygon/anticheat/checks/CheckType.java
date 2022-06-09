@@ -5,7 +5,8 @@ import org.bukkit.permissions.Permission;
 
 public enum CheckType {
     SPEED("Speed", new Permission("polygonac.bypass.speed")),
-    NOSLOW("NoSlowDown", new Permission("polygonac.bypass.noslow"));
+    NOSLOW("NoSlowDown", new Permission("polygonac.bypass.noslow")),
+    FASTUSE("FastUse", new Permission("polygonac.bypass.fastuse"));
     private String name;
     private Permission permission;
 
