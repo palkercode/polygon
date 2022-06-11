@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Settings {
     public static final Double MAX_XZ_SPEED = 0.66D;
-    public static final Double MAX_XZ_EATING_SPEED = 0.10177D;
+    public static final Double MAX_XZ_EATING_SPEED = 0.10255D;
     public static final double MAX_XZ_BLOCKING_SPEED = 0.12D;
     public static final String NOTIFY = "polygonac.notify";
 
