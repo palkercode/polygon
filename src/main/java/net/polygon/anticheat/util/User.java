@@ -34,8 +34,6 @@ public class User {
 
     public Long getBowStart() { return bowStart; }
 
-    public void getBowStart(Long bowStart) { this.bowStart = bowStart; }
-
     public boolean isBow() {
         return bow;
     }
