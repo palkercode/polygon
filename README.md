@@ -1,2 +1,2 @@
 # Polygon
-Anti-cheat for Minecraft servers
+Античит для серверов Minecraft
